@@ -1,0 +1,15 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+
+# dbt local logs and targets
+dbt_weather/target/
+dbt_weather/dbt_packages/
+dbt_weather/logs/
